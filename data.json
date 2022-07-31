@@ -1,0 +1,682 @@
+[
+    {
+        "id": 1,
+        "name": "LA GLARE Sling Bags",
+        "price": 499,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 700,
+        "detail": "Stylish Latest Trending Handbag",
+        "imageUrl":"https://m.media-amazon.com/images/I/61NDBxNHzhL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shoetopia",
+        "price": 453,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 500,
+        "detail": "Girls Stylish Trending Flats",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qhnxksXOL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aadtya clutch Purse",
+        "price": 805,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 970,
+        "detail": "Golden bridal Party and Wedding Bag",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Qc4e6TnVL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Trending Tail Kitchen",
+        "price": 428,
+        "category": "Trending",
+        "giftFor": "All",
+        "slashedPrice": 570,
+        "detail": "Tap Extension Flexible Anti Splash Water Saving",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Xh51WistS._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Travel Umbrella",
+        "price": 240,
+        "category": "Trending",
+        "giftFor": "All",
+        "slashedPrice":470,
+        "detail": "New Trending Decent Look",
+        "imageUrl": "https://m.media-amazon.com/images/I/414lE7LvPWS._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bath Mat",
+        "price": 945,
+        "category": "Trending",
+        "giftFor": "All",
+        "slashedPrice": 999,
+        "detail": "Anti-Slip Bathroom Shower Mat Super Soft",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OFEe9WMlL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Women's PU Leather Stylish",
+        "price": 435,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 1126,
+        "detail": "Backpack for College Office Travel Purse",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PcKHG6byL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cotton Textured",
+        "price": 945,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 999,
+        "detail": "Embroidery Stitched Zippered Lumbar Tassel Cushion",
+        "imageUrl": "https://m.media-amazon.com/images/I/91zfk2igMZL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sparx Men's Footwear",
+        "price": 305,
+        "category": "Lifestyle",
+        "giftFor": "Men",
+        "slashedPrice": 669,
+        "detail": "Outdoor/Official/Running/Walking Shoes",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Qvda5qnuL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Yotog 6 Pair Fancy Silver",
+        "price": 99,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 199,
+        "detail": "Golden Mirror Drops and Long Chain Tassel",
+        "imageUrl": "https://m.media-amazon.com/images/I/91eA6T1vBDL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Rimeline Printed Cotton Kurtis",
+        "price": 245,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 469,
+        "detail": "Jaipuri Printed Kurtis",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IJBj1Iz+L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Stysol Military Strap Square Dial",
+        "price": 245,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 739,
+        "detail": "Army Watches Men Multi Function",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CaaTRPvlL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Waterproof Gym Fitness",
+        "price": 145,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 469,
+        "detail": "Digital Watch Boy's Girl's",
+        "imageUrl": "https://m.media-amazon.com/images/I/416IW9n7hjL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 14,
+        "name": "SHAMRIZ Women Sling Bag",
+        "price": 893,
+        "category": "Lifestyle",
+        "giftFor": "Women",
+        "slashedPrice": 969,
+        "detail": "handbag | purse |Side Sling bag | Tassel Sling Bag",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EGHwsjCDL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Hopdezyo Italian Gift Lamp",
+        "price": 999,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 1999,
+        "detail": "Jute Drum Shade, Bulb, Wiring",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sVCDGIxvS._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Artificial Flower Pots",
+        "price": 545,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 739,
+        "detail": "Living Room, Balcony, Multicolor",
+        "imageUrl": "https://m.media-amazon.com/images/I/81mncVRV3rL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Litleo Set of 4 Mini Decorative",
+        "price": 700,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 869,
+        "detail": " Home Office or Gift Wild Artificial Plant",
+        "imageUrl": "https://m.media-amazon.com/images/I/81opj+B0fhL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Artvibes Wall Hanger",
+        "price": 99,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 199,
+        "detail": "Office |Gift (Multicolour, Religious",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IbcUghs2L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Decazone Macrame Wall",
+        "price": 499,
+        "category": "Home decor",
+        "giftFor": "All",
+        "slashedPrice": 799,
+        "detail": "Modern Chic Hand Woven Art Decor",
+        "imageUrl": "https://m.media-amazon.com/images/I/51H2pAkicTL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 20,
+        "name": "OnePlus Nord CE 2",
+        "price": 599,
+        "category": "Electronics",
+        "giftFor": "All",
+        "slashedPrice": 999,
+        "detail": " Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71AvQd3VzqL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Noise ColorFit",
+        "price": 400,
+        "category": "Electronics",
+        "giftFor": "All",
+        "slashedPrice": 600,
+        "detail": "Pro 2 Full Touch Control Smart Watch",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41UD9vNsIjS._AC_SX184_.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Mi 125.7 cm (50 Inches)",
+        "price": 39,
+        "category": "Electronics",
+        "giftFor": "All",
+        "slashedPrice": 99,
+        "detail": "4K Ultra HD Android Smart LED TV 4X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61V7cDH8AAS._AC_UL640_QL65_.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Canon",
+        "price": 90,
+        "category": "Electronics",
+        "giftFor": "All",
+        "slashedPrice": 199,
+        "detail": "Digital SLR Camera + EF-S 18-55mm",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81cEKnH692L._AC._SR360,460.jpg"
+    },
+    {
+        "id": 24,
+        "name": "TP-link N300 WiFi",
+        "price": 890,
+        "category": "Electronics",
+        "giftFor": "All",
+        "slashedPrice": 929,
+        "detail": "Wireless Router TL-WR845N",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41fQ5NSkEWL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Bajaj Rex 500W Grinder",
+        "price": 790,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 929,
+        "detail": "Nutri-Pro Feature, 3 Jars, White",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51Ck4wmBbSL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Kuvings B1700 Juicer",
+        "price": 490,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 629,
+        "detail": "Patented JMCS Technology",
+        "imageUrl": "https://m.media-amazon.com/images/I/41960zBAO7L._AC._SR360,460.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Inalsa Hand Blender",
+        "price": 279,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 629,
+        "detail": "Pro- Powerful 3 in 1",
+        "imageUrl": "https://m.media-amazon.com/images/I/31laz5jJSNL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Clearline 650 Watts",
+        "price": 199,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 229,
+        "detail": "Electric Dough Kneader with Stainless Steel Bowl",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51Za6AmtUnL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Pigeon Pop up Toaster.",
+        "price": 265,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 529,
+        "detail": "A Smart Bread Toaster for Your Home",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51x15vgzI2L._AC._SR360,460.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Panasonic Automatic Cooker",
+        "price": 263,
+        "category": "Appliances",
+        "giftFor": "All",
+        "slashedPrice": 390,
+        "detail": "SR-WA10E Black Color 1 Litre Capacity 450 W",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+OiNyfHPL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 31,
+        "name": "HAMMONDS FLYCATCHER Men's",
+        "price": 204,
+        "category": "Lifestyle",
+        "giftFor": "Men",
+        "slashedPrice": 329,
+        "detail": "Messenger Bags (Brown)",
+        "imageUrl": "https://m.media-amazon.com/images/I/918XTNb13fL._SX679_.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Contacts Men's Genuine Leather",
+        "price": 179,
+        "category": "Lifestyle",
+        "giftFor": "Men",
+        "slashedPrice": 229,
+        "detail": "Lealther Belt for Men",
+        "imageUrl": "https://m.media-amazon.com/images/I/81epVkxdHNL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Rigohill Doger Olive Green",
+        "price": 204,
+        "category": "Lifestyle",
+        "giftFor": "Men",
+        "slashedPrice": 429,
+        "detail": "Leather Wallet for Men | RFID Mens Wallet",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SYvtX2YmL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Garnier Men Acno",
+        "price": 279,
+        "category": "Lifestyle",
+        "giftFor": "Men",
+        "slashedPrice": 329,
+        "detail": "Fight Anti-Pimple Facewash for Acne Prone Skin, 150g",
+        "imageUrl": "https://m.media-amazon.com/images/I/51W4Rv1YbTL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Spelling Fun Type",
+        "price": 700,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 800,
+        "detail": "Beautiful Colorful Pictures",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xnlizPxXL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Girls Kids 2-10 Years",
+        "price": 725,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 829,
+        "detail": "Readymade Black & White Cotton Frock Combo",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FMTA6LzgL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Girls Graphics Cotton T Shirt",
+        "price": 500,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 600,
+        "detail": "Print Full Sleeve Round Neck Kids",
+        "imageUrl": "https://m.media-amazon.com/images/I/71S1N+cZvbL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 38,
+        "name": "AJ DEZINES",
+        "price": 480,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 500,
+        "detail": "Kids Shirt and Jeans Clothing Set for Boys",
+        "imageUrl": "https://m.media-amazon.com/images/I/81nBPr48ThL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Googo Gaaga",
+        "price": 690,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 700,
+        "detail": "Googogaaga Boy's Cotton Full Sleeves Army Style",
+        "imageUrl": "https://m.media-amazon.com/images/I/31zTx4VIh8L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Tiber Taber",
+        "price": 489,
+        "category": "Lifestyle",
+        "giftFor": "Kids",
+        "slashedPrice": 500,
+        "detail": "Boys Pure Cotton Baby Jhabla",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ttru37DKL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Walking Stick",
+        "price": 679,
+        "category": "Lifestyle",
+        "giftFor": "Elderly",
+        "slashedPrice": 479,
+        "detail": "Men/Women/Old People",
+        "imageUrl": "https://m.media-amazon.com/images/I/21NlB4h+tAL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Adult Bibs, Adult The Eldly Bib",
+        "price": 793,
+        "category": "Lifestyle",
+        "giftFor": "Elderly",
+        "slashedPrice": 800,
+        "detail": "Adult Washable Dining Bibs for Elderly Red",
+        "imageUrl": "https://m.media-amazon.com/images/I/71My-JOyThL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Harpa Women's Regular",
+        "price": 600,
+        "category": "Lifestyle",
+        "giftFor": "Teens",
+        "slashedPrice": 800,
+        "detail": "Regular fit Top (GR5691_Pink XL)",
+        "imageUrl": "https://m.media-amazon.com/images/I/81XD9TkysaL._UY879_.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Lymio Women Stylish",
+        "price": 900,
+        "category": "Lifestyle",
+        "giftFor": "Teens",
+        "slashedPrice": 1000,
+        "detail": "Adult Washable Dining Bibs for Elderly Red",
+        "imageUrl": "https://m.media-amazon.com/images/I/81xC+090X+L._UY879_.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Amazon Brand",
+        "price": 500,
+        "category": "Lifestyle",
+        "giftFor": "Teens",
+        "slashedPrice": 800,
+        "detail": "Symbol Women's Relaxed Pants",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TiwvetQFL._UY879_.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Harpa Women's",
+        "price": 500,
+        "category": "Lifestyle",
+        "giftFor": "Teens",
+        "slashedPrice": 600,
+        "detail": "Regular Fit Top",
+        "imageUrl": "https://m.media-amazon.com/images/I/81QXkj8GReS._UY879_.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Miss Chase Women's",
+        "price": 384,
+        "category": "Lifestyle",
+        "giftFor": "Teens",
+        "slashedPrice": 479,
+        "detail": "Cotton Full Sleeve Collared Top",
+        "imageUrl": "https://m.media-amazon.com/images/I/814hw5t9OeL._UY879_.jpg"
+    },
+    {
+        "id": 48,
+        "name": "ARZONAI",
+        "price": 279,
+        "category": "Trending",
+        "giftFor": "Men",
+        "slashedPrice": 529,
+        "detail": "Trending Aviator Shape",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WqmxAsHiL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 49,
+        "name": "BELLINA",
+        "price": 368,
+        "category": "Trending",
+        "giftFor": "Teens",
+        "slashedPrice": 583,
+        "detail": "Men's Trending Black and Silver Finger Ring",
+        "imageUrl": "https://m.media-amazon.com/images/I/41lyP9bxoyL._UL1080_.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Generic",
+        "price": 492,
+        "category": "Trending",
+        "giftFor": "Men",
+        "slashedPrice": 545,
+        "detail": "FA Se Fashion | Alone Trending",
+        "imageUrl": "https://m.media-amazon.com/images/I/31N2THKoHYL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 51,
+        "name": "As Fashion",
+        "price": 589,
+        "category": "Trending",
+        "giftFor": "Men",
+        "slashedPrice": 804,
+        "detail": "Men's Lycra Lining Digital",
+        "imageUrl": "https://m.media-amazon.com/images/I/41R+ZAMt64L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 52,
+        "name": "VETKA",
+        "price": 395,
+        "category": "Trending",
+        "giftFor": "Women",
+        "slashedPrice": 589,
+        "detail": "Fancy Rayon Printed Straight Kurta",
+        "imageUrl": "https://m.media-amazon.com/images/I/71BFkI4WEwL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 53,
+        "name": "AK SKY",
+        "price": 904,
+        "category": "Trending",
+        "giftFor": "Women",
+        "slashedPrice": 1000,
+        "detail": "Women Stylish Fancy",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jycE8cSoS._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Miss Chase Women's",
+        "price": 489,
+        "category": "Trending",
+        "giftFor": "Women",
+        "slashedPrice": 500,
+        "detail": "Multicolored Round Neck 3/4th Sleeves",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZvKvcS4LL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Acnos",
+        "price": 301,
+        "category": "Trending",
+        "giftFor": "Women",
+        "slashedPrice": 305,
+        "detail": "Silver Color 12 Point Diamond",
+        "imageUrl": "https://m.media-amazon.com/images/I/81+IGcKcLDL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 56,
+        "name": "mk style",
+        "price": 478,
+        "category": "Trending",
+        "giftFor": "Women",
+        "slashedPrice": 958,
+        "detail": "casual and trending heel sandal",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VyTAMbEhL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Grear Trending",
+        "price": 586,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 705,
+        "detail": "Stylish Women's/Girls Preppy Style Fashion Waterproof",
+        "imageUrl": "https://m.media-amazon.com/images/I/319tdObu+uL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Dk.elements",
+        "price": 599,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 905,
+        "detail": "Magnetic Rakhi",
+        "imageUrl": "https://m.media-amazon.com/images/I/51IFljc5-uL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 59,
+        "name": "SELLORIA",
+        "price": 388,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 596,
+        "detail": "A Brand Black Dial Digital Smart Generation",
+        "imageUrl": "https://m.media-amazon.com/images/I/41P8HXoObGL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Trunks Kaleidoscope",
+        "price": 796,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 900,
+        "detail": "Color Cognition Hand-Eye",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SzknIFjWL._AC_UL640_QL65_.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Would You Rather Book For Kids",
+        "price": 688,
+        "category": "Trending",
+        "giftFor": "Kids",
+        "slashedPrice": 800,
+        "detail": "The Trending Game",
+        "imageUrl": "https://m.media-amazon.com/images/I/81toAKnUZ3L._AC_UL640_QL65_.jpg"
+    },
+    {
+        "id": 62,
+        "name": "The Alchemist",
+        "price": 700,
+        "category": "Trending",
+        "giftFor": "Elderly",
+        "slashedPrice": 800,
+        "detail": "Book",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Tinted",
+        "price": 870,
+        "category": "Trending",
+        "giftFor": "Elderly",
+        "slashedPrice": 900,
+        "detail": "Men's Blouson Cotton Cardigan",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uqLCSxd0L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Magic",
+        "price": 688,
+        "category": "Trending",
+        "giftFor": "Elderly",
+        "slashedPrice": 900,
+        "detail": "Men's & Women's Winter Wear",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pVTZFq3NL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Amazon Brand - Symbol",
+        "price": 604,
+        "category": "Trending",
+        "giftFor": "Elderly",
+        "slashedPrice": 690,
+        "detail": "Acrylic Sweater",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fKE9lxmIL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 66,
+        "name": "R K Fashion's Women",
+        "price": 693,
+        "category": "Trending",
+        "giftFor": "Teens",
+        "slashedPrice": 700,
+        "detail": "Pure Woolen Half-Sleeves",
+        "imageUrl": "https://m.media-amazon.com/images/I/31nwX6201gL.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Miss Chase Women Apparel",
+        "price": 400,
+        "category": "Trending",
+        "giftFor": "Teens",
+        "slashedPrice": 600,
+        "detail": "Miss Chase Women Apparel",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81cq2NBBRUL._AC_UL320_SR320,320_.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Cold Fusion",
+        "price": 689,
+        "category": "Trending",
+        "giftFor": "Teens",
+        "slashedPrice": 900,
+        "detail": "Crop Tank Top",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61wm2wfkgwL._AC_UL320_SR320,320_.jpg"
+    }
+]
